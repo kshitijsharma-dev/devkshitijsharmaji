@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "my first project attempt",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [
+    "nodejs",
+    "jvascript"
+  ],
+  "author": "kshitij sharma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "node": "^20.18.1"
+  }
+}
